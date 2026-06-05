@@ -7,7 +7,7 @@ import { absoluteUrl, jsonLdScript, siteConfig } from "@/lib/seo";
 
 export const metadata: Metadata = {
   title:
-    "Website Development for Schools, Hospitals, Manufacturers & Businesses",
+    "The Jain Agency | Website Development & Digital Solutions",
   description:
     "Premium website development for schools, hospitals, manufacturers, industrial companies, and private businesses that need trust, speed, and real enquiries.",
   keywords: [
